@@ -1,5 +1,5 @@
 # odin-recipes
 
-Primeiro projeto do curso da The Odin Projetct.
+My first project from TOP.
 
-Consiste na criação de um site com páginas de receitas.
+Creation of a recipe website.
